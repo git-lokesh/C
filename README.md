@@ -9,6 +9,7 @@ This repository contains various C programming projects categorized by difficult
 2. **Simple Quiz Game** - Asks multiple-choice questions and calculates the score.
 3. **Simple Interest Calculator** - Calculates simple interest using the formula: **SI = (P × R × T) / 100**.
 4. **Even/Odd Number Checker** - Checks if a number is even or odd.
+5. **Simple Calculator** - A simple calculator using switch statements
 
 ### Intermediate Projects:
 1. **Student Grade System** - Takes input marks and assigns grades accordingly.
