@@ -7,9 +7,8 @@ This repository contains various C programming projects categorized by difficult
 ### Beginner Projects:
 1. **Unit Converter** - Converts units like kilometers to miles, Celsius to Fahrenheit, etc.
 2. **Simple Quiz Game** - Asks multiple-choice questions and calculates the score.
-3. **Number Guessing Game** - A fun game where the user guesses a randomly generated number.
+3. **Simple Interest Calculator** - Calculates simple interest using the formula: **SI = (P × R × T) / 100**.
 4. **Even/Odd Number Checker** - Checks if a number is even or odd.
-5. **Simple Interest Calculator** - Calculates simple interest using the formula: **SI = (P × R × T) / 100**.
 
 ### Intermediate Projects:
 1. **Student Grade System** - Takes input marks and assigns grades accordingly.
